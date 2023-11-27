@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kim%20YeJi&fontSize=90)
 
-### Hi there 👋
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hoshikyj&theme=warm)
 
 <!--
 **yejively/yejively** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
