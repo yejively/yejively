@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=200&section=header&text=Kim%20YeJi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kim%20YeJi&fontSize=90)
 
 ### Hi there 👋
 
