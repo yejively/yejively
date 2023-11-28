@@ -1,7 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kim%20YeJi&fontSize=90)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yejively&custom_title=yejively&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
+
+<center>🙂 About Me 🙂</center>
+
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yejively&custom_title=yejively&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
 
 <!--
 **yejively/yejively** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
