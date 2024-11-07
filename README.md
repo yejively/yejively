@@ -7,17 +7,10 @@
 ### 📚Stacks
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A16?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white"/>
+</div>
    
 </summary>
 </details>
